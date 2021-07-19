@@ -9,8 +9,8 @@ svg {
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: white;
-  stroke: rgb(225, 228, 232);
+  fill: #1e1e1e;
+  stroke: rgb(68, 68, 68);
   stroke-width: 1px;
   rx: 6px;
   ry: 6px;
@@ -73,7 +73,7 @@ tr {
 
 <table>
 <thead><tr style="transform: translateX(0);">
-<th colspan="2">jarekkopaczewski's GitHub Statistics</th>
+<th colspan="2">GitHub Statistics</th>
 </tr></thead>
 <tbody>
 
