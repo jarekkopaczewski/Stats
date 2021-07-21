@@ -14,6 +14,7 @@ svg {
   stroke-width: 1px;
   rx: 6px;
   ry: 6px;
+  
 }
 
 foreignObject {
