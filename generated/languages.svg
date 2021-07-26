@@ -6,6 +6,7 @@ svg {
   line-height: 21px;
 }
 
+  
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
@@ -21,6 +22,7 @@ foreignObject {
   width: calc(100% - 10px - 32px);
   height: calc(100% - 10px - 24px);
 }
+  
 
 h2 {
   margin-top: 0;
