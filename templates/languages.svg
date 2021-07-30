@@ -57,6 +57,7 @@ li {
     transform: translateX(0);
   }
 }
+  
 
 div.ellipsis {
   height: 100%;
