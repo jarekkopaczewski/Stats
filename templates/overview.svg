@@ -37,6 +37,7 @@ th {
   color: rgb(242, 242, 242);
 }
 
+  
 td {
   margin-bottom: 16px;
   margin-top: 8px;
