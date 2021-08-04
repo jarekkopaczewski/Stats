@@ -51,6 +51,7 @@ li {
   animation-function: ease-in-out;
   animation-fill-mode: forwards;
 }
+  
 
 @keyframes slideIn {
   to {
