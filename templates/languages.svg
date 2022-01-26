@@ -17,9 +17,6 @@ svg {
   rx: 6px;
   ry: 6px;
 }
-
-  
-  
   
   
 foreignObject {
