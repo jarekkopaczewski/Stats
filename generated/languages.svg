@@ -20,13 +20,11 @@ svg {
 }
   
   
+  
 foreignObject {
   width: calc(100% - 10px - 32px);
   height: calc(100% - 10px - 24px);
 }
-  
-  
-  
   
 h2 {
   margin-top: 0;
