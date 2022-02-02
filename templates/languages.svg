@@ -4,8 +4,6 @@ svg {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
   font-size: 14px;
   line-height: 21px;
-  
-  
 }
   
 #background {
@@ -18,8 +16,6 @@ svg {
   rx: 6px;
   ry: 6px;
 }
-  
-  
   
 foreignObject {
   width: calc(100% - 10px - 32px);
