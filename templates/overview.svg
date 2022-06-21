@@ -15,8 +15,6 @@ svg {
   rx: 6px;
   ry: 6px;
 }
-
-  
   
 foreignObject {
   width: calc(100% - 10px - 32px);
