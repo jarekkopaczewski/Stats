@@ -27,6 +27,7 @@ table {
   table-layout: auto;
 }
   
+  
 th {
   padding: 0.5em;
   padding-top: 0;
