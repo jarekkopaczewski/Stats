@@ -38,6 +38,7 @@ ul {
   margin-bottom: 0;
 }
 
+  
 li {
   display: inline-flex;
   font-size: 12px;
