@@ -21,6 +21,7 @@ foreignObject {
   height: calc(100% - 10px - 32px);
 }
 
+  
 table {
   width: 100%;
   border-collapse: collapse;
